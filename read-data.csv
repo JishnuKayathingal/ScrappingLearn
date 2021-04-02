@@ -1,6 +1,6 @@
-,i,Heading,itemname,description,price
-0,Computers category,Acer Aspire A315...,"Acer Aspire A315-51-33TG, Black 15.6"" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG",457.38,
-1,Computers category,MSI GS63 7RD Ste...,"MSI GS63 7RD Stealth, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home",1179.0,
-2,Computers category,Acer Aspire 7 A7...,"Acer Aspire 7 A715-71G, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home",1123.87,
-3,Computers category,Acer Aspire ES1-...,"Acer Aspire ES1-572 Black, 15.6"" HD, Core i3-6006U, 4GB, 128GB SSD, Linux",379.95,
-4,https://webscraper.io/test-sites/e-commerce/allinone/computers,Computers category,Asus ASUSPRO B94...,"Asus ASUSPRO B9440UA-GV0279R Gray, 14"" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd",1381.13
+,Heading,itemname,description,price
+0,Computers category,MSI GL62VR 7RFX,"MSI GL62VR 7RFX, 15.6"" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home",1299.0
+1,Computers category,Lenovo V110-15IS...,"Lenovo V110-15ISK, 15.6"" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro",454.73
+2,Computers category,Dell Latitude 55...,"Dell Latitude 5580, 15.6"" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro",1337.28
+3,Computers category,Dell Latitude 54...,"Dell Latitude 5480, 14"" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux",1238.37
+4,Computers category,Dell XPS 13,"13.3"" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",1281.99
